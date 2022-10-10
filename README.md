@@ -12,7 +12,11 @@ https://apps.ankiweb.net/
 ## Current State Semester 1
 
 Digitalisierung der Produktion -> Not started yet
+
 Business Process Technologies -> Not started yet
+
 Middleware Technologies -> Not started yet
+
 Data Analytics -> Not started yet
+
 Business Intelligence -> Not started yet
